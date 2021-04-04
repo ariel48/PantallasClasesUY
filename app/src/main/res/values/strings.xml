@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PantClasesUY</string>
+    <string name="app_subtitulo">Las mejores clases</string>
+    <string name="tv_Titulo">CLASES UY</string>
+    <string name="btn_IniciarSesion">Iniciar Sesión</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="hint_usuario">Usuario / email</string>
+    <string name="hint_usuario_password">password</string>
+    <string name="reg_titulo">Registro</string>
+    <string name="reg_usuario_nombre">Nombre Usuario</string>
+    <string name="reg_email">email</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_boton_ok">OK</string>
+    <string name="prof_NombreProfesor">NombreProfesor</string>
+    <string name="prof_UsuarioProfesor">Usuario</string>
+    <string name="prof_PasswordProfesor">Password</string>
+    <string name="prof_btn_ProfesorPasaraReservar">Agendar</string>
+    <string name="prof_btn_CV">Datos del Profesro</string>
+</resources>
